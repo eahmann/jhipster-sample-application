@@ -42,7 +42,9 @@
     "jwtSecretKey": "MmVjMTdjMjg3MjNmZmM1YjIzYjQ5MzhjMWU3NDNlMjUyYmZkMmU1ZWJiZDkzMTBhZTYyNmNiNWEyNzEzZDRiZDdiZTBmYTA1ZGY3NjVmOTdhMmQyNWUzZTlhN2Q5OGI3MGE3YzQ1ZjI0YjgzYjNhZTU2YmE0NTYwYjY3OTdiMGE=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1619288600000
   },
   "git-provider": "GitHub",
   "git-company": "eahmann",
